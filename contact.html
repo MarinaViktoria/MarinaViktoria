@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="contact.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="nav">
+        <a class="item one" href="home.html">Home</a>
+        <a class="item two" href="aboutme.html">Über mich</a>
+        <a class="item three" href="projects.html">Meine Projekte</a>
+    </nav>
+
+    <form action="https://formspree.io/f/mbjeellz" method="POST">
+        <div class="header">
+            <label>
+                Ihre E-Mail:
+                <br>
+                <input class="text-input" type="email" name="reply_to" placeholder="Ihre E-Mail..." required=" ">
+            </label>
+        </div>
+        <br>
+        <div class="header">
+            <label>
+                Ihre Nachricht:
+                <br>
+                <textarea class="text-input" name="message" placeholder="Schreiben Sie Ihre Nachricht..."
+                    required=" "></textarea>
+            </label>
+        </div>
+        <br>
+        <div class="header">
+            <button class="btn" type="submit">Senden</button>
+        </div>
+    </form>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/gsap.min.js"></script>
+    <script src="contact.js"></script>
+</body>
+</html>

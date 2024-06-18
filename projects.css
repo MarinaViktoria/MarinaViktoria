@@ -1,0 +1,107 @@
+body {
+    background-color: #232830;
+}
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin-bottom: 75px;
+}
+.item {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 1.3px;
+    padding: 10px;
+}
+.item:hover {
+    color: rgb(78, 149, 243);
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: rgb(78, 149, 243);
+}
+.header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+h3 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+.container {
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+img {
+    margin: 20px;
+    width: 280px;
+    height: 200px;
+    border: 2px solid #63738d;
+    border-radius: 20px; 
+}
+img:hover {
+    transform: scale(1.2);
+    transition: transform 0.8s ease-in-out;
+}
+.project-container {
+    border-radius: 30px;
+    height: 450px;
+    width: 350px;
+    margin: 7px;
+    border: 2px solid #63738d;
+}
+.project {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: transparent;
+}
+.project-heading {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 20px;
+}
+.project-category {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+.btn {
+    background-color: #63738d;
+    color: #fff;
+    font-size: 15px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+.btn:hover {
+    color: rgb(78, 149, 243);
+    background-color: antiquewhite;
+}
+@media all and (max-width: 500px) {
+    .nav {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+    }
+    .item {
+        font-size: 15px;
+        letter-spacing: 1.3px;
+    }
+}
+
+
