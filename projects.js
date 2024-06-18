@@ -81,16 +81,19 @@ imageFourteen.addEventListener("click", openFourteen);
 function openFourteen(){
     window.open("https://venerable-semolina-b8c711.netlify.app/")
 }
+
 const imageFifteen = document.querySelector(".imageFifteen");
 imageFifteen.addEventListener("click", openFifteen);
 function openFifteen(){
     window.open("https://silver-seahorse-468c18.netlify.app/")
 }
+
 const imageSixteen = document.querySelector(".imageSixteen");
 imageSixteen.addEventListener("click", openSixteen);
 function openSixteen(){
     window.open("https://my-very-new-todo-list.netlify.app/")
 }
+
 const imageSeventeen = document.querySelector(".imageSeventeen");
 imageSeventeen.addEventListener("click", openSeventeen);
 function openSeventeen(){

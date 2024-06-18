@@ -29,7 +29,7 @@ body {
     position: absolute;
     margin-top: 100px;
     margin-left: 100px;
-    width: 55%;
+    width: 60%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -50,6 +50,19 @@ h2 {
 h2:hover {
     color: rgb(78, 149, 243);
 }
+
+@media all and (max-width: 810px) {
+    h2 {
+        margin: 0px;
+        text-align: center;
+    }
+    #container {
+        position: absolute;
+        margin-top: 100px;
+        margin-left: 50px;
+        width: 80%;
+    }
+}
 @media all and (max-width: 500px) {
     .nav {
         display: flex;
@@ -66,12 +79,6 @@ h2:hover {
     h2 {
         font-size: 28px;
         padding: 10px;
-        margin: 0px;
-        text-align: center;
-    }
-}
-@media all and (max-width: 800px) {
-    h2 {
         margin: 0px;
         text-align: center;
     }
