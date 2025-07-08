@@ -1,6 +1,9 @@
 <section>
-   <h3 >Hi 👋, I'm Marina</h3>
-   <h3 >A passionate frontend developer.</h3>
+   <h3 >Hi there, I'm Marina 👋</h3>
+   <h4 >A passionate frontend developer.</h4>
+   🔭 I’m currently working on an Next.js Project.
+   🌱 I'm currently improving my skills in MERN stack.
+   💬 I speak German, English and Russian.
 </section>
 
 ---
