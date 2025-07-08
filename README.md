@@ -1,6 +1,4 @@
 <section>
-   <!--<h3>:woman_technologist: About Me:</h3>-->
-   
    <h3 >Hi 👋, I'm Marina</h3>
    <h3 >A passionate frontend developer.</h3>
 </section>
