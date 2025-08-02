@@ -1,7 +1,7 @@
 <section>
    <h3 >Hi there, I'm Marina 👋</h3>
    <h4 >A passionate frontend developer.</h4>
-   🔭 I’m currently working on an Next.js Project.<br>
+   🔭 I’m currently working on a Next.js Project.<br>
    🌱 I’m currently learning Flutter.<br>
    💬 I speak German, English and Russian.
 </section>
