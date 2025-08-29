@@ -32,7 +32,7 @@
 
 <section>
    <h3>:fire: My Stats:</h3>
-   ![Codewars]
+
    <img src="/skills-tools-icons/codewars.svg" title="Codewars" alt="Codewars"/>
    
 </section>
