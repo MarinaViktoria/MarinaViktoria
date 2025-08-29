@@ -29,7 +29,10 @@
 </section>
 
 ---
-
+<section>
+   <h3>:My Stats:</h3>
+   https://www.codewars.com/users/mvs-2025/badges/micro
+</section>
 <!--
 **MarinaViktoria/MarinaViktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
