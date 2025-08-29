@@ -1,7 +1,7 @@
 <section>
    <h3 >Hi there, I'm Marina 👋</h3>
    <h4 >A passionate frontend developer.</h4>
-   🔭 I’m currently working on a Next.js Project.<br>
+   🔭 I’m currently working on a Next.js project.<br>
    🌱 I’m currently learning Flutter.<br>
    💬 I speak German, English and Russian.
 </section>
@@ -29,9 +29,12 @@
 </section>
 
 ---
+
 <section>
-   <h3>:My Stats:</h3>
-   https://www.codewars.com/users/mvs-2025/badges/micro
+   <h3>:fire: My Stats:</h3>
+   ![Codewars]
+   <img src="/skills-tools-icons/codewars.svg" title="Codewars" alt="Codewars"/>
+   
 </section>
 <!--
 **MarinaViktoria/MarinaViktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,4 +49,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
