@@ -33,7 +33,8 @@
 <section>
    <h3>:fire: My Stats:</h3>
 
-   <img src="/skills-tools-icons/codewars.svg" title="Codewars" alt="Codewars"/>
+   https://www.codewars.com/users/mvs-2025/badges/large
+   <!--<img src="/skills-tools-icons/codewars.svg" title="Codewars" alt="Codewars"/>-->
    
 </section>
 <!--
